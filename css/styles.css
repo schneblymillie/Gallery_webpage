@@ -1,0 +1,20 @@
+
+/*codyhouse.co*/
+/*Gallery Styling*/
+
+.gallery {
+    height: 500px; 
+}
+
+.gallery .item {
+    background: coral; 
+}
+
+.item img {
+    display: block;  
+    margin: auto; 
+}
+
+.controls img:hover {
+    outline: 5px solid white; 
+}
